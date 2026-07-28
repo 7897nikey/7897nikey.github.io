@@ -28,16 +28,16 @@ sklearn에서는 `sublinear_tf=True` 옵션에 해당한다.
 
 문서 벡터 \$$ \mathbf{x} = (x_1, x_2, \dots, x_n) $$ 에 대해:
 
-- **L2 정규화 (Euclidean Norm)** — sklearn 기본값 `norm='l2'`
+- **L2 정규화 (Euclidean Norm)** — sklearn 기본값 `norm='l2'`  
 $$
 \hat{x}_i = \frac{x_i}{\sqrt{x_1^2 + x_2^2 + \cdots + x_n^2}}
-$$
+$$  
   정규화 후 벡터의 길이가 1 → 벡터의 내적 == 코사인 유사도
   문서 검색에서 L2를 기본으로 사용한다.
 
-- L1 정규화 (Manhattan Norm)
+- L1 정규화 (Manhattan Norm)  
 $$
 \hat{x}_i = \frac{x_i}{|x_1| + |x_2| + \cdots + |x_n|}
-$$
+$$  
   절댓값의 합 == 1
   TF-IDF 값은 0 이상이므로 각 원소가 전체에서 차지하는 비율로 계산된다.

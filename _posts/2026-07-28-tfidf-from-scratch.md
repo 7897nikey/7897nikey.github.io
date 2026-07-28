@@ -9,7 +9,7 @@ math: true
 원문: [100 NLP interview questions](https://medium.com/@milana.shxanukova15/100-nlp-interview-questions-c282190d73f4)
 학습 목적으로 문항을 번역하고 답변은 직접 작성했습니다.
 
-## Write TF-IDF from scratch.
+## Q1. Write TF-IDF from scratch.
 ### TF-IDF를 직접 구현해보세요.
 
 ```python
@@ -69,7 +69,7 @@ tfidf_
 - BoW의 확장(BoW: 문서 내 단어 빈도를 벡터로 나타낸 것)
 
 - **TF-IDF**
-- 정의: 문서 안에서 어떤 단어가 얼마나 그 문서를 잘 대표하는지 나타내는 수치
-- 구성: TF와 IDF의 곱
-    TF(Term Frequency): 단어 출현 빈도
-    IDF(Inverse Document Frequency): 역문서빈도
+    - 정의: 문서 안에서 어떤 단어가 얼마나 그 문서를 잘 대표하는지 나타내는 수치
+    - 구성: TF와 IDF의 곱
+        - TF(Term Frequency): 단어 출현 빈도
+        - IDF(Inverse Document Frequency): 역문서빈도

@@ -4,7 +4,7 @@ date: 2026-04-05 09:00:00 +0900
 categories: [NLP, DL입문]
 tags: [토큰화, postagging]
 math: true
-media_subpath: /assets/img/posts/tokenization/
+media_subpath: /assets/img/posts/tokenization
 ---
 *과거 티스토리에 작성했던 글을 수정 후 옮겨왔습니다*  
 자연어 처리 공부 내용 정리  
@@ -12,7 +12,9 @@ media_subpath: /assets/img/posts/tokenization/
   
 ## 환경설정
 Python을 이용하는데 TensorFlow 버전이 맞지 않아 애를 좀 먹었다... 지금까지는 자료구조나 알고리즘 위주로 공부했어서 TensorFlow를 사용할 일이 없었는데, 알고 보니 최신 파이썬 버전과 호환되지 않은지 꽤 되었다고 한다.  
-![error](image1-1.png)  
+![TensorFlow 버전 호환 오류 메시지](image1-1.png)  
+_최신 파이썬에서 TensorFlow 설치 시 발생한 오류_  
+
 파이썬 3.11 버전을 다시 깔고 가상 환경을 만들어 주었다.  
 
 ```powershell
@@ -20,7 +22,7 @@ py -3.11 -m venv .venv
 .\.venv\Scripts\activate
 ```  
 
-![venv](image1-2.png)  
+![가상환경 설정](image1-2.png)  
 정상적으로 활성화가 되면 위처럼 (.venv)가 앞에 붙게 된다.  
 가상환경에서는 기존에 쓰던 모듈들을 다시 받아줘야 합니다. TensorFlow 말고도 numpy, pandas 등 필요한 모듈들을 다시 설치했다. 교재에서 ipynb 파일을 사용하길래 jupyter ipykernel도 다시 받아주었다. 커널은 자동으로 가상환경 거를 받아오던데, 안되면 우측 상단의 커널을 바꿔주면 된다.  
 

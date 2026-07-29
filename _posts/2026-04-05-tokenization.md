@@ -4,6 +4,7 @@ date: 2026-04-05 09:00:00 +0900
 categories: [NLP, DL입문]
 tags: [토큰화, postagging]
 math: true
+media_subpath: /assets/img/posts/tokenization/
 ---
 *과거 티스토리에 작성했던 글을 수정 후 옮겨왔습니다*  
 자연어 처리 공부 내용 정리  

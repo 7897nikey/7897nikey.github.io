@@ -4,7 +4,7 @@ date: 2026-08-26 09:00:00 +0900
 categories: [Paper, SiliconSampling]
 tags: [mode-collapse, embedding, calibration, ANES]
 depth: deep
-citekey: CITEKEY
+citekey: Heath2026
 ---
 
 > Oscar Heath,Rohan Alexander (2026), *Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating*, arXiv. [원문](https://arxiv.org/html/2607.28550v1) · [코드](https://doi.org/10.5281/zenodo.21706514)
@@ -87,7 +87,7 @@ T는 2016 데이터 전체에 대해 평균 KL을 최소화하는 값 하나로 
 표준편차: 수치 프롬프팅은 실제 SD 대비 일관되게 낮고(Fig 6 좌), SSR은 대각선 근처(우).  
 
 ### 5.3. 한계
-- gpt-5.4-mini는 5.4  5.7로 악화. 유의한 손실이 없다고 하나 검정은 존재하지 않는다.
+- gpt-5.4-mini는 5.4 → 5.7로 악화. 유의한 손실이 없다고 하나 검정은 존재하지 않는다.
 - 2016보다 2020 KL이 더 낮아진 모델에 대한 설명이 없다.
 - Fig 4, Fig 7에서 실제 분포의 양봉을 SSR로도 재현하지 못했다. 극단 응답 편향에 대해서 저자도 "수치 생성의 문제가 아닌 더 근본적인 문제"라고 인정한다. 2.1절 원인 가설이 설명하는 범위는 분산에 한정된다.
 
@@ -135,8 +135,8 @@ T는 2016 데이터 전체에 대해 평균 KL을 최소화하는 값 하나로 
 - **후속**: None(2026-08-26)
 - **대립**
   - Cao2025, Suh2026: 파인튜닝으로 응답 분포를 맞추는 접근
-  - Chapala: 프롬프트 문구로 사회적 바람직성 편향을 완화하는 접근
-  - Barrie2026, Schröder202: 페르소나 기반 실리콘 샘플링 자체에 회의적 입장
+  - Chapala2025: 프롬프트 문구로 사회적 바람직성 편향을 완화하는 접근
+  - Barrie2026, Schröder2025: 페르소나 기반 실리콘 샘플링 자체에 회의적 입장
 - **파생 질문**
   1. 평가 지표를 TV distance / Wasserstein distance로 바꾸어도 SSR이 가장 효과적인 방법일지?
   2. min-max 정규화를 제거한다면?

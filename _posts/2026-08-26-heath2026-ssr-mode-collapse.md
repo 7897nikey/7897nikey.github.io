@@ -141,8 +141,3 @@ T는 2016 데이터 전체에 대해 평균 KL을 최소화하는 값 하나로 
   1. 평가 지표를 TV distance / Wasserstein distance로 바꾸어도 SSR이 가장 효과적인 방법일지?
   2. min-max 정규화를 제거한다면?
   3. 분포 적합도와 개인 수준 정확도 사이의 상관관계
-
-<!-- 발행 후 할 일
-     1) Notion 해당 항목 본문 첫 줄에 이 글 URL 붙이기
-     2) kosmos_layer1_v2.xlsx 에 1행 추가 (아직 없으면)
-     3) 쟁점이 3편 모였으면 Layer 3 노트(categories: [Study, ...]) 작성 -->

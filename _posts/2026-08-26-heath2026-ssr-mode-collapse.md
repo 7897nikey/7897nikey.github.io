@@ -7,7 +7,7 @@ depth: deep
 citekey: CITEKEY
 ---
 
-> Oscar Heath,Rohan Alexander (2026), *Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating*, arXiv. ([원문](https://arxiv.org/html/2607.28550v1)) · ([코드](https://doi.org/10.5281/zenodo.21706514))
+> Oscar Heath,Rohan Alexander (2026), *Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating*, arXiv. [원문](https://arxiv.org/html/2607.28550v1) · [코드](https://doi.org/10.5281/zenodo.21706514)
 
 ## 1. 한 문장 요약
 

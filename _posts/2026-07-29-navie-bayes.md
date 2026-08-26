@@ -1,8 +1,8 @@
 ---
 title: "NLP 100문 100답 (4) 나이브 베이즈"
 date: 2026-07-29 09:20:00 +0900
-categories: [NLP, 100문100답]
-tags: [나이브베이즈]
+categories: [Study, NLP]
+tags: [나이브베이즈, 100문100답]
 math: true
 ---
 원문: [100 NLP interview questions](https://medium.com/@milana.shxanukova15/100-nlp-interview-questions-c282190d73f4)

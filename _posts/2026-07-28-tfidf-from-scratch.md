@@ -1,8 +1,8 @@
 ---
 title: "NLP 100문 100답 (1) TF-IDF를 직접 구현하기"
 date: 2026-07-28 20:00:00 +0900
-categories: [NLP, 100문100답]
-tags: [tf-idf, 정보검색]
+categories: [Study, NLP]
+tags: [tf-idf, 정보검색, 100문100답]
 math: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "NLP 텍스트 전처리 (2) - 정제와 정규화"
 date: 2026-04-25 09:00:00 +0900
-categories: [NLP, DL입문]
-tags: [정제, 정규화]
+categories: [Study, NLP]
+tags: [정제, 정규화, DL입문]
 math: true
 media_subpath: /assets/img/posts/tokenization
 ---

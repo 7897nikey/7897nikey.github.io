@@ -1,8 +1,8 @@
 ---
 title: "NLP 100문 100답 (2) TF-IDF에서의 정규화"
 date: 2026-07-28 20:10:00 +0900
-categories: [NLP, 100문100답]
-tags: [tf-idf, 정보검색]
+categories: [Study, NLP]
+tags: [tf-idf, 정보검색, 100문100답]
 math: true
 ---
 원문: [100 NLP interview questions](https://medium.com/@milana.shxanukova15/100-nlp-interview-questions-c282190d73f4)

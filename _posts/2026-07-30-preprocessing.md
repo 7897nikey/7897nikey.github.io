@@ -1,8 +1,8 @@
 ---
 title: "NLP 100문 100답 (6) 텍스트 전처리 방법"
 date: 2026-07-30 09:00:00 +0900
-categories: [NLP, 100문100답]
-tags: [전처리, 표제어, 어간]
+categories: [Study, NLP]
+tags: [전처리, 표제어, 어간, 100문100답]
 math: true
 ---
 원문: [100 NLP interview questions](https://medium.com/@milana.shxanukova15/100-nlp-interview-questions-c282190d73f4)

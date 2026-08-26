@@ -1,8 +1,8 @@
 ---
 title: "NLP 100문 100답 (5) SVM의 과적합"
 date: 2026-07-29 09:40:00 +0900
-categories: [NLP, 100문100답]
-tags: [SVM, 과적합]
+categories: [Study, NLP]
+tags: [SVM, 과적합, 100문100답]
 math: true
 ---
 원문: [100 NLP interview questions](https://medium.com/@milana.shxanukova15/100-nlp-interview-questions-c282190d73f4)

@@ -1,8 +1,8 @@
 ---
 title: "NLP 100문 100답 (7) 텍스트 유사도 측정"
 date: 2026-07-31 09:10:00 +0900
-categories: [NLP, 100문100답]
-tags: [유사도, 코사인, 자카드]
+categories: [Study, NLP]
+tags: [유사도, 코사인, 자카드, 100문100답]
 math: true
 ---
 원문: [100 NLP interview questions](https://medium.com/@milana.shxanukova15/100-nlp-interview-questions-c282190d73f4)

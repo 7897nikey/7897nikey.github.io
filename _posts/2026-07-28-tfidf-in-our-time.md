@@ -1,8 +1,8 @@
 ---
 title: "NLP 100문 100답 (3) TF-IDF의 오늘날과 활용"
 date: 2026-07-28 20:20:00 +0900
-categories: [NLP, 100문100답]
-tags: [tf-idf, 정보검색, rag, bm25]
+categories: [Study, NLP]
+tags: [tf-idf, 정보검색, rag, bm25, 100문100답]
 math: true
 ---
 원문: [100 NLP interview questions](https://medium.com/@milana.shxanukova15/100-nlp-interview-questions-c282190d73f4)

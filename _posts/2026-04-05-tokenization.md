@@ -1,8 +1,8 @@
 ---
 title: "NLP 텍스트 전처리 (1) - 토큰화"
 date: 2026-04-05 09:00:00 +0900
-categories: [NLP, DL입문]
-tags: [토큰화, postagging]
+categories: [Study, NLP]
+tags: [토큰화, postagging, DL입문]
 math: true
 media_subpath: /assets/img/posts/tokenization
 ---
